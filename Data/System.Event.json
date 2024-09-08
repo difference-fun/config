@@ -1,0 +1,17 @@
+{
+    "System": {
+        "Event": [
+            {
+                "#class": "System.Event",
+                "action" : "difference.fun.config.framework.environment.set",
+                "options" : {
+                    "command" : [],
+                    "controller" : [
+                        "Event:Difference:Fun:Config:Environment:set"
+                    ],
+                    "priority" : 10
+                }
+            }
+        ]
+    }
+}
